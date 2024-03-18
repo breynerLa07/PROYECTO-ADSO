@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+primo
+1
+0
+4
+1
+39
+'ingrese un numero entero menor que 20'
+5
+1
+3
+num
+7
+0
+1
+7
+num<=20
+4
+1
+31
+' el numero no es menor que 20'
+13
+6
+1
+6
+primo 
+1
+1
+7
+0
+1
+118
+(num MOD 2=0 AND num !=2)  AND (num MOD 3=0 AND num !=3) AND (num MOD 5=0 AND num !=5) AND (num MOD 7=0 AND num !=7)  
+4
+1
+25
+' el numero no es primo '
+13
+4
+1
+22
+' el numero es primo '
+13
+13
+1

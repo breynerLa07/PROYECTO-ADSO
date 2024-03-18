@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+'digite un numero entero de dos digitos'
+5
+1
+3
+num
+7
+0
+1
+6
+num<99
+4
+1
+32
+'el numero no es de dos digitos'
+13
+7
+0
+1
+6
+num>10
+4
+1
+32
+'el numero no es de dos digitos'
+13
+6
+2
+4
+dig1
+14
+trunc (num/10)
+4
+dig2
+10
+num mod 10
+7
+0
+1
+38
+Dig1 Mod Dig2 = 0 or Dig2 Mod Dig1 = 0
+4
+1
+35
+'el numero no es multiplo del otro'
+13
+4
+1
+32
+'el digito es multiplo del otro'
+13
+13
+13
+1
